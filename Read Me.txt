@@ -1,0 +1,15 @@
+# Finger Counting Project (C++)
+A C++ program that counts fingers in real-time using a webcam, built with OpenCV and/or Mediapipe.
+
+## How to Run
+1. Install OpenCV and configure it in your C++ environment.
+2. Compile and run `finger_counting.cpp`.
+3. Ensure a webcam is connected.
+
+## Dependencies
+- OpenCV 4.x
+- C++17 or later
+
+## Setup
+- Install OpenCV: `https://opencv.org/releases/`
+- Link libraries in your IDE (e.g., MSVC).
